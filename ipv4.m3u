@@ -20,7 +20,7 @@ http://69.30.245.50/live/cctv10.m3u8
 http://69.30.246.194/live/cctv13.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视.png" group-title="央视频道",湖南卫视
 http://74.91.26.218:82/live/hnwshd.m3u8
-#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://live.fanmingming.cn/tv/湖南经视.png" group-title="☘️湖南频道",湖南经视
+#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://live.fanmingming.cn/tv/湖南经视.png" group-title="央视频道",湖南经视
 http://183.215.134.239:19901/tsfile/live/1000_1.m3u8
 
 #港澳台频道
