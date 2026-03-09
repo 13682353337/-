@@ -50,6 +50,8 @@ http://74.91.26.218:82/live/ttvnews.m3u8
 http://iptv.4666888.xyz/iptv2A.php?id=30
 #EXTINF:-1  group-title="港澳台频道",好消息电视台
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1  group-title="港澳台频道",GOODTV 2
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://live.fanmingming.cn/tv/天映经典.png" group-title="港澳台频道",天映经典
 https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
 
